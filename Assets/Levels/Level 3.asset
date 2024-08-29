@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b0740e78f6258747899596f2eaeee64, type: 3}
+  m_Name: Level 3
+  m_EditorClassIdentifier: 
+  cylinderTextures:
+  - {fileID: 2800000, guid: 34cfef4232bfec94ea840f147f676063, type: 3}
+  - {fileID: 2800000, guid: 054b6ef0689f0984c9bbb78dd1995ef2, type: 3}
+  - {fileID: 2800000, guid: 34cfef4232bfec94ea840f147f676063, type: 3}
+  initialRotations:
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  correctRotations:
+  - {x: 0, y: 42, z: 0}
+  - {x: 0, y: 36, z: 0}
+  - {x: 0, y: 40, z: 0}
+  groupIds: 000000000100000002000000
+  timeLimit: 0
+  Question: The Answer is 16
