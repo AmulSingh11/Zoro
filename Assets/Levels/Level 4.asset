@@ -13,23 +13,23 @@ MonoBehaviour:
   m_Name: Level 4
   m_EditorClassIdentifier: 
   cylinderTextures:
-  - {fileID: 2800000, guid: ce5fbc3e5c510c24494b111b5e8c5d95, type: 3}
-  - {fileID: 2800000, guid: ace24d03e2ce1104888b9e8c5626df0b, type: 3}
-  - {fileID: 2800000, guid: 092d40d77ab337c4ba8c0c0fb07d98ca, type: 3}
-  - {fileID: 2800000, guid: 839b92ba04de4354d8040761e040cd2e, type: 3}
-  - {fileID: 2800000, guid: e370b1eba7abb804f8d2c06152217f06, type: 3}
+  - {fileID: 2800000, guid: 208bd3563ef10b44582e2642c6f5aaae, type: 3}
+  - {fileID: 2800000, guid: 98be04b011436a34fbf5b514da1c75dd, type: 3}
+  - {fileID: 2800000, guid: 6944deb5b4401324cb3a7f1c61cad226, type: 3}
+  - {fileID: 2800000, guid: 40081bdf59348624697a1b78e09c13ba, type: 3}
+  - {fileID: 2800000, guid: 2e142121e4c6b1b4fb160698fd105725, type: 3}
   initialRotations:
-  - {x: 0, y: 200, z: 0}
-  - {x: 0, y: 200, z: 0}
-  - {x: 0, y: 200, z: 0}
-  - {x: 0, y: 200, z: 0}
-  - {x: 0, y: 200, z: 0}
+  - {x: 0, y: 90, z: 0}
+  - {x: 0, y: 130, z: 0}
+  - {x: 0, y: 130, z: 0}
+  - {x: 0, y: 130, z: 0}
+  - {x: 0, y: 90, z: 0}
   correctRotations:
-  - {x: 0, y: 40, z: 0}
-  - {x: 0, y: 40, z: 0}
-  - {x: 0, y: 40, z: 0}
-  - {x: 0, y: 40, z: 0}
-  - {x: 0, y: 40, z: 0}
-  groupIds: 0000000001000000000000000000000001000000
+  - {x: 0, y: 22, z: 0}
+  - {x: 0, y: 14, z: 0}
+  - {x: 0, y: 14, z: 0}
+  - {x: 0, y: 14, z: 0}
+  - {x: 0, y: 22, z: 0}
+  groupIds: 0000000001000000010000000100000000000000
   timeLimit: 0
-  Question: I am a Common Greeting, both short and sweet ?
+  Question: Most Visited Man Made Monument in India

@@ -30,6 +30,6 @@ MonoBehaviour:
   - {x: 0, y: 48, z: 0}
   - {x: 0, y: 48, z: 0}
   - {x: 0, y: 48, z: 0}
-  groupIds: 0000000001000000000000000000000001000000
+  groupIds: 0000000000000000000000000000000000000000
   timeLimit: 0
   Question: I am a Common Greeting, both short and sweet ?
